@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_YbrjIIZoEeqM6YfyPZmMDw" name="mysql-local-tarea1" id="_FtK1kIZoEeqM6YfyPZmMDw" label="mysql-local-tarea1" dataPackage="_Yck7AIZoEeqM6YfyPZmMDw" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/tarea1?noDatetimeStringSync=true" dbVersionString="MYSQL_8" Port="3306" Username="dev" Password="enc:system.encryption.key.v1:/lhZTir5NTJqlB+/svafOPsQFK95DanpJ5mMX0lBAIERnMAS" ServerName="localhost" DatasourceName="" FileFieldName="" SID="tarea1" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_YbsKMIZoEeqM6YfyPZmMDw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_YcGZ4IZoEeqM6YfyPZmMDw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_YcGZ4YZoEeqM6YfyPZmMDw" tag="Status" value=""/>
+    <taggedValue xmi:id="_YcGZ4oZoEeqM6YfyPZmMDw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_YcGZ44ZoEeqM6YfyPZmMDw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_YcGZ5IZoEeqM6YfyPZmMDw" tag="Description" value=""/>
+    <taggedValue xmi:id="_YcGZ5YZoEeqM6YfyPZmMDw" tag="Author" value=""/>
+    <taggedValue xmi:id="_YcGZ5oZoEeqM6YfyPZmMDw" tag="otherParameter"/>
+    <taggedValue xmi:id="_YcVDYIZoEeqM6YfyPZmMDw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_YcVDYYZoEeqM6YfyPZmMDw" tag="DB ProductVersion" value="5.7.29-log"/>
+    <taggedValue xmi:id="_YcVDYoZoEeqM6YfyPZmMDw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_YbsKMYZoEeqM6YfyPZmMDw" key="CONN_PARA_KEY_USERNAME" value="dev"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_Yck7AIZoEeqM6YfyPZmMDw" name="tarea1" dataManager="_YbrjIIZoEeqM6YfyPZmMDw"/>
+</xmi:XMI>
