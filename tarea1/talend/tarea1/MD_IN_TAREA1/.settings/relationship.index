@@ -80,6 +80,10 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_ofsOwIZnEeqM6YfyPZmMDw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "DataOperation",
     "version" : "Latest",
     "type" : "routine"
@@ -125,6 +129,22 @@
     "type" : "schema"
   }, {
     "id" : "_lW-m0IZmEeqM6YfyPZmMDw - productos",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - clientes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - empleados",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - ordenes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - tiendas",
     "version" : "Latest",
     "type" : "schema"
   } ]
