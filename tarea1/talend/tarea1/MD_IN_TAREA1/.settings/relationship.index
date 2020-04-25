@@ -132,11 +132,7 @@
     "version" : "Latest",
     "type" : "schema"
   }, {
-    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - clientes",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - empleados",
+    "id" : "_ofsOwIZnEeqM6YfyPZmMDw - detalleorden",
     "version" : "Latest",
     "type" : "schema"
   }, {
