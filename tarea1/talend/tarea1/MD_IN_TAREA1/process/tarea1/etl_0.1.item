@@ -42,7 +42,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:ev6+miKfO6m5kC6uiV6NfAbyMNXmtVA1LxMFyHKd" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="enc:system.encryption.key.v1:pbBcCkgG+pz13smuQnjZwBFHnoI35+VN4oUfmG7g" show="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
@@ -77,7 +77,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:45scuFl9QIe/ZK7AMtCnoQEe626sSkHWOqExbuIC" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:vy/XUda/LwcIFBDjTz+s9Vu+hxKAfUkzi4pHFTut" show="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" show="false"/>
@@ -118,7 +118,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;ventas&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Gy2EtYuJQRMfoAvPB12r8WQPQEM1kRGSVdAAAMPSTm6T7yTBJSc="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:QtiPLt/yRbwpOcaKfgDdie5ipq/O+2CJ4Iuu0FzZ5hQUagVzT8g="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_ofsOwIZnEeqM6YfyPZmMDw - ordenes" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;ordenes&quot;"/>
@@ -267,7 +267,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;ventas&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:FpEW0bPDDjVz9mQdOfYn6blj8DFXqLaD4wf086Xt9//UWL/XgqY="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:pBuGFNyBuI0iWx17Pr133Xe+irF9babygBBxEoBK53JoDmv2630="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_ofsOwIZnEeqM6YfyPZmMDw - tiendas" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;tiendas&quot;"/>
@@ -345,7 +345,7 @@
     <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;tarea1&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:/08n8vi49lLUpA61o48grdW7d+XKqly3uLRJnoQrZc6NCuaPY3w="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:5xFci+3Q6epy7HkNcyxjxeqQNSzOTivx+RPTfPyF0TDhx2Q0RTg="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;dimOrdenes&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -449,7 +449,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;ventas&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:OkqE/N2F/84RU/3hi74r2vIwW+tbdAsGr0aeisYeva9+Xdx+8WI="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:gcPb9LYJHrxceSFHko++RlF3guxW06/39q/Tu8MKPj4F9dJu0/Y="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_ofsOwIZnEeqM6YfyPZmMDw - detalleorden" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;detalleorden&quot;"/>
@@ -520,7 +520,10 @@
     <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="true"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" label="hechosOrdenes" name="hechosOrdenes">
-      <column comment="" key="true" length="10" name="idOrden" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
+      <column comment="" key="false" length="10" name="idDimOrden" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
+        <additionalField key="Comment" value=""/>
+      </column>
+      <column comment="" key="false" length="10" name="idDimProducto" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="10" name="cantidad" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
@@ -532,19 +535,16 @@
       <column comment="" defaultValue="0.00" key="false" length="4" name="descuento" nullable="false" pattern="" precision="2" sourceType="DECIMAL" type="id_BigDecimal" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="true" length="10" name="idProducto" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
-        <additionalField key="Comment" value=""/>
-      </column>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
       <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="hechosOrdenes">
-        <mapperTableEntries name="idOrden" expression="row6.idOrden " type="id_Integer"/>
+        <mapperTableEntries name="idDimOrden" expression="row6.idOrden " type="id_Integer"/>
+        <mapperTableEntries name="idDimProducto" expression="row8.idProducto " type="id_Integer"/>
         <mapperTableEntries name="cantidad" expression="row9.cantidad " type="id_Integer"/>
         <mapperTableEntries name="precioVenta" expression="row9.precioVenta " type="id_BigDecimal"/>
         <mapperTableEntries name="descuento" expression="row9.descuento " type="id_BigDecimal"/>
-        <mapperTableEntries name="idProducto" expression="row8.idProducto " type="id_Integer"/>
       </outputTables>
       <inputTables sizeState="INTERMEDIATE" name="row6" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
         <mapperTableEntries name="idOrden" type="id_Integer"/>
@@ -553,7 +553,7 @@
         <mapperTableEntries name="ciudad" type="id_String" nullable="true"/>
         <mapperTableEntries name="estado" type="id_String" nullable="true"/>
       </inputTables>
-      <inputTables sizeState="INTERMEDIATE" name="row9" activateCondensedTool="true" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE" innerJoin="true">
+      <inputTables sizeState="INTERMEDIATE" name="row9" activateCondensedTool="true" matchingMode="ALL_MATCHES" lookupMode="LOAD_ONCE">
         <mapperTableEntries name="idOrden" expression="row6.idOrden " type="id_Integer" operator="="/>
         <mapperTableEntries name="idItem" type="id_Integer"/>
         <mapperTableEntries name="idProducto" expression="" type="id_Integer"/>
@@ -582,7 +582,7 @@
     <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;tarea1&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:WSU69HA/OzYgjtCRXNxxMwH7a9Hen4FCx84tw9cFFSEe+cljNgo="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:WphRUTJjqA9d/kfBBcIi5KZsp9LedIWt26X+it3AA027rT7s7mw="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;hechosOrdenes&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -600,10 +600,21 @@
     <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;" show="false"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="TEXT" name="COMMIT_EVERY" value="10000"/>
-    <elementParameter field="TABLE" name="ADD_COLS"/>
+    <elementParameter field="TABLE" name="ADD_COLS">
+      <elementValue elementRef="NAME" value="&quot;hechosId&quot;"/>
+      <elementValue elementRef="DATATYPE" value="INT(10) PRIMARY KEY NOT NULL auto_increment"/>
+      <elementValue elementRef="SQL" value="0"/>
+      <elementValue elementRef="POS" value="BEFORE"/>
+      <elementValue elementRef="REFCOL" value="idDimOrden"/>
+    </elementParameter>
     <elementParameter field="CHECK" name="USE_FIELD_OPTIONS" value="false"/>
     <elementParameter field="TABLE" name="FIELD_OPTIONS" show="false">
-      <elementValue elementRef="SCHEMA_COLUMN" value="idOrden"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="idDimOrden"/>
+      <elementValue elementRef="UPDATE_KEY" value="false"/>
+      <elementValue elementRef="DELETE_KEY" value="false"/>
+      <elementValue elementRef="UPDATABLE" value="true"/>
+      <elementValue elementRef="INSERTABLE" value="true"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="idDimProducto"/>
       <elementValue elementRef="UPDATE_KEY" value="false"/>
       <elementValue elementRef="DELETE_KEY" value="false"/>
       <elementValue elementRef="UPDATABLE" value="true"/>
@@ -623,11 +634,6 @@
       <elementValue elementRef="DELETE_KEY" value="false"/>
       <elementValue elementRef="UPDATABLE" value="true"/>
       <elementValue elementRef="INSERTABLE" value="true"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="idProducto"/>
-      <elementValue elementRef="UPDATE_KEY" value="false"/>
-      <elementValue elementRef="DELETE_KEY" value="false"/>
-      <elementValue elementRef="UPDATABLE" value="true"/>
-      <elementValue elementRef="INSERTABLE" value="true"/>
     </elementParameter>
     <elementParameter field="CHECK" name="USE_HINT_OPTIONS" value="false"/>
     <elementParameter field="TABLE" name="HINT_OPTIONS" show="false"/>
@@ -638,7 +644,10 @@
     <elementParameter field="TEXT" name="LABEL" value="mysql-local-tarea1"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" label="hechosOrdenes" name="tDBOutput_3">
-      <column comment="" key="true" length="10" name="idOrden" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
+      <column comment="" key="false" length="10" name="idDimOrden" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
+        <additionalField key="Comment" value=""/>
+      </column>
+      <column comment="" key="false" length="10" name="idDimProducto" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="10" name="cantidad" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
@@ -648,14 +657,14 @@
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" defaultValue="0.00" key="false" length="4" name="descuento" nullable="false" pattern="" precision="2" sourceType="DECIMAL" type="id_BigDecimal" usefulColumn="true">
-        <additionalField key="Comment" value=""/>
-      </column>
-      <column comment="" key="true" length="10" name="idProducto" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
     </metadata>
     <metadata connector="REJECT" label="hechosOrdenes" name="REJECT">
-      <column comment="" key="true" length="10" name="idOrden" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
+      <column comment="" key="false" length="10" name="idDimOrden" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
+        <additionalField key="Comment" value=""/>
+      </column>
+      <column comment="" key="false" length="10" name="idDimProducto" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="10" name="cantidad" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
@@ -665,9 +674,6 @@
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" defaultValue="0.00" key="false" length="4" name="descuento" nullable="false" pattern="" precision="2" sourceType="DECIMAL" type="id_BigDecimal" usefulColumn="true">
-        <additionalField key="Comment" value=""/>
-      </column>
-      <column comment="" key="true" length="10" name="idProducto" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" precision="0" sourceType="VARCHAR" type="id_String" originalLength="-1" usefulColumn="true"/>
@@ -686,7 +692,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;ventas&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:XJLxogzsdIAbR5Yo/b+TmSLNis0w16FjIiR1MasiXha/5HEN89Y="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:R1ogt3g9kv58RS7dmScJGxs8Amp2eXNDEcs4khI7Xmqde0Ty9b0="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_ofsOwIZnEeqM6YfyPZmMDw - detalleorden" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;detalleorden&quot;"/>
@@ -754,7 +760,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;produccion&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GK+E4frw1CMc0MozE4HZpNOi1Fu8wzL2lqMmzGRDg7iwu8B8cK8="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:/nSFV7Sq/01+yHKxNpUNQ3D5bxwk+TdT50mUEPWkM7Vn5YWNH4s="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_lW-m0IZmEeqM6YfyPZmMDw - productos" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;productos&quot;"/>
@@ -905,7 +911,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;produccion&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:PCkEIFuEGVHRg25VjJO7IytBtSKlcydctziqEWaILxRuSqzqGuA="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:kveSumV2cR+UW5/vwCqyTAlHqMfoF0Q3dgIHoyoulOsnRMuyloQ="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_lW-m0IZmEeqM6YfyPZmMDw - categorias" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;categorias&quot;"/>
@@ -953,7 +959,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;produccion&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:3fFF6aD7+FqvxwPEcK35o+6YWqNhpvqYasVIAUxullI7VirsPQs="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:MZJHMDS39FejD/8ejJ/KJOAeRBSGWRX5hoLNHYYyfFEdcPoozzQ="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_lW-m0IZmEeqM6YfyPZmMDw - marcas" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;marcas&quot;"/>
@@ -1001,7 +1007,7 @@
     <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;tarea1&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;dev&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:duWu62acyhjKAfS0VtJvzMD2TCvfSbUtpDRol30zmKiwINP4vak="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:j9fcdcHqYWJAuLb3Ple1QxGm0NWAqKVmaQMvWSm8pUCyuUmdItE="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;dimProductos&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -1135,7 +1141,13 @@
       <elementValue elementRef="TRACE_COLUMN" value="precioVenta"/>
       <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
       <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
-      <elementValue elementRef="TRACE_COLUMN" value="idProducto"/>
+      <elementValue elementRef="TRACE_COLUMN" value="idDimProducto"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="id"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="idDimOrden"/>
       <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
       <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
     </elementParameter>
