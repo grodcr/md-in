@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_B1MykIZ1EeqM6YfyPZmMDw" comment="connectionComment" label="connectionLabel" dataPackage="_B1MykYZ1EeqM6YfyPZmMDw"/>
+  <TalendMetadata:GenericPackage xmi:id="_B1MykYZ1EeqM6YfyPZmMDw" dataManager="_B1MykIZ1EeqM6YfyPZmMDw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_B1MykoZ1EeqM6YfyPZmMDw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B1Myk4Z1EeqM6YfyPZmMDw" name="idProducto" id="1416" label="idProducto" length="10" sourceType="INT" talendType="id_Integer" key="true" nullable="false">
+        <initialValue xmi:id="_B1MylIZ1EeqM6YfyPZmMDw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B1MylYZ1EeqM6YfyPZmMDw" name="nomProducto" id="1417" label="nomProducto" length="255" sourceType="VARCHAR" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_B1MyloZ1EeqM6YfyPZmMDw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B1Myl4Z1EeqM6YfyPZmMDw" name="annoModelo" id="1418" label="annoModelo" length="5" sourceType="SMALLINT" talendType="id_Short" nullable="false">
+        <initialValue xmi:id="_B1MymIZ1EeqM6YfyPZmMDw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B1MymYZ1EeqM6YfyPZmMDw" name="nomMarca" id="1419" label="nomMarca" length="255" sourceType="VARCHAR" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_B1MymoZ1EeqM6YfyPZmMDw"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_B1Mym4Z1EeqM6YfyPZmMDw" name="categoria" id="1420" label="categoria" length="255" sourceType="VARCHAR" talendType="id_String" nullable="false">
+        <initialValue xmi:id="_B1MynIZ1EeqM6YfyPZmMDw"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
