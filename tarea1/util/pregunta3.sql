@@ -1,6 +1,6 @@
--------------------------------------------------------------------------------------------------
--- ¿Cuáles son los estados y las ciudades en éstos que han reportado mayores ventas a lo
--- largo de los tres años? ¿Para cuáles categorías de producto?
+#-------------------------------------------------------------------------------------------------
+# ¿Cuáles son los estados y las ciudades en éstos que han reportado mayores ventas a lo
+# largo de los tres años? ¿Para cuáles categorías de producto?
 
 SELECT dimO.estado, dimO.ciudad , sum(precioVenta) as TotalVenta
 FROM tarea1.dimordenes dimO 

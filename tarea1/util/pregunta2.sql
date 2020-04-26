@@ -1,5 +1,5 @@
--------------------------------------------------------------------------------------------------
--- ¿Cuáles son las categorías de producto que más ingresos han generado por mes en el último año?
+#-------------------------------------------------------------------------------------------------
+# ¿Cuáles son las categorías de producto que más ingresos han generado por mes en el último año?
  
 SELECT dimP.categoria, MONTHNAME(dimO.fechaOrden) as Mes, sum(precioVenta) as TotalVenta
 FROM tarea1.dimordenes dimO 

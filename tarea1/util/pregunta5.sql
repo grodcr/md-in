@@ -1,6 +1,6 @@
--------------------------------------------------------------------------------------------------
--- ¿ Cuáles son las tiendas que han generado más ingresos por ventas en los dos últimos
--- annos y y en qué estado se ubican?
+#-------------------------------------------------------------------------------------------------
+# ¿ Cuáles son las tiendas que han generado más ingresos por ventas en los dos últimos
+# annos y y en qué estado se ubican?
 
 SELECT dimO.nomTienda, dimO.estado , sum(precioVenta) as TotalVenta
 FROM tarea1.dimordenes dimO 
