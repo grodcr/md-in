@@ -1,3 +1,4 @@
+-- ¿ Cuáles el monto promedio de descuento aplicado durante los últimos 6 meses?
 # detalle de ordenes de los ultimos 6 meses
 SELECT hechos.*, (hechos.cantidad * hechos.descuento) descuentoTotal, tarea1.dimordenes.fechaOrden
 FROM tarea1.hechosordenes hechos

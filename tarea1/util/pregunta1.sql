@@ -1,3 +1,8 @@
+-------------------------------------------------------------------------------------------------
+-- ¿Cuáles son los productos que más ingresos han generado en los dos últimos años? Los
+-- ingresos se desean analizar también por marca y año del modelo (annoModelo) del
+-- producto.
+
 -- Analisis por Ingresos ultimos 2 años de productos
 SELECT dimP.*, sum(precioVenta) as TotalVenta
 FROM tarea1.dimordenes dimO 
